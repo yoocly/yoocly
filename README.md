@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there
 
 <!--
 **dirkzukunft/dirkzukunft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👨‍💻 My current project
+
+
+## 🏆  Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dirkzukunft&hide=stars,contribs)
