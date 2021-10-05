@@ -1,5 +1,7 @@
 ## 👋 Hi there
 
+I am Dirk, a web developer based in Leipzig, Germany.
+
 - 🌱 I’m currently developing using React, Typescript, Node.js and more...
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
