@@ -1,6 +1,8 @@
-## 👋 Hi there
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-I am Dirk, a web developer based in Leipzig, Germany.
+<h1 align="center">👋  Hi there! Nice to see you, I'm Dirk.</h1>
+
+<h3 align="center"> I'm a Web Developer based in Leipzig, Germany.</h2>
 
 - 🌱 I’m currently developing using React, Typescript, Node.js and more...
 - 👯 I’m looking to collaborate on open source
