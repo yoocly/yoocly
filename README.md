@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-## 👋  Hi there! Nice to see you, I'm Dirk.</h1>
+## 👋  Hi there! Nice to see you!</h1>
 
 ### I'm a Web Developer based in Leipzig, Germany.</h2>
 
