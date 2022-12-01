@@ -17,7 +17,7 @@
 
 &nbsp;
 
-## 👨‍💻 My current project
+## 👨‍💻 My last React project
 <a href="https://github.com/dirkzukunft/frotos" target="_blank">👉🏼  &nbsp;  Github Repository</a>
 
 https://user-images.githubusercontent.com/87307560/136006950-1a9c6357-cf2b-493c-afdc-41aa00f7b373.mp4
