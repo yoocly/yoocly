@@ -4,7 +4,7 @@
 
 ### I'm a Web Developer based in Leipzig, Germany.</h2>
 
-- 🌱 I’m currently developing using React, Angular, Typescript, Node.js and more...
+- 🌱 I’m currently developing using Angular, Typescript, Node.js, C# with .NET and more...
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://dirk-zukunft.de/linkedin) or [Xing](https://dirk-zukunft.de/xing)
