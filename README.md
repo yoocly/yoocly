@@ -20,9 +20,6 @@
 ## 👨‍💻 My current project
 <a href="https://github.com/dirkzukunft/frotos" target="_blank">👉🏼  &nbsp;  Github Repository</a>
 
-<a href="https://dirk-zukunft.de/frotos" target="_blank">👉🏼  &nbsp;  Live App</a>
-
-
 https://user-images.githubusercontent.com/87307560/136006950-1a9c6357-cf2b-493c-afdc-41aa00f7b373.mp4
 
 &nbsp;
